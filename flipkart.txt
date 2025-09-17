@@ -1,1 +1,4 @@
 echo "this project is based on price list"
+and this project is approved by CRDA
+it is a land pooling management
+approxmently around 35000 ac of land are approved
